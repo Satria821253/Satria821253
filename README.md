@@ -49,17 +49,6 @@ const satria = {
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=satria821253&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## Spotify Vibes
 
